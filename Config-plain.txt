@@ -70,7 +70,6 @@ heater_pin: PA1
 sensor_type: EPCOS 100K B57560G104F
 sensor_pin: PC5
 pressure_advance: 0.34 
-
 min_temp: 0
 max_temp: 265
 Min_extrude_temp: 180
