@@ -6,7 +6,7 @@ It should work,  after you change the viritual sd card path and maybe the mcu us
 
 There isn't any start or stop macros in it. 
 
-Remember to do these calibrations for your printer so youdont damage anything:
+Remember to do these calibrations for your printer so you dont damage anything:
 
 Z-offset 
 
